@@ -3,7 +3,7 @@
  @section('content')
      <div class="pt-10 min-h-screen w-full bg-main  ">
          @include('session.danger')
-         <div class=" w-[45%] bg-[#FFFFFF] rounded-2xl mx-auto   px-5 py-6 flex flex-col">
+         <div class=" w-[70%] bg-[#FFFFFF] rounded-2xl mx-auto   px-5 py-6 flex flex-col">
              <div class="w-[90%] mx-auto ">
 
                  <div class="my-3">
